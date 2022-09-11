@@ -1,0 +1,12 @@
+1. funkcija za izbor opcije playera (case insensitive)
+	-case insensitive tako sto cu string koji se ukuca da trimujem i posle ukucavanja pretvorim u lowercase
+2. funkcija za izbor opcije racunara
+	-random number generator
+	-1 rock, 2 paper, 3 scissors
+3. funkcija za jednu rundu igre
+	-"You win. Rock beats Scissors"
+4. funkcija game
+	-ima 5 rundi, znaci loop
+	-u svakoj se iznova traze podaci i izbacuje rezultat
+	-treba voditi racuna o rezultatu da bi se na kraju prikazali pobednik i score (2 brojaca)
+	
